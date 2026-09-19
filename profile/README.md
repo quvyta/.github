@@ -4,6 +4,21 @@ A family of cross-platform terminal applications, written in Rust and built on o
 
 Everything here is open source under the MIT licence and in beta.
 
+### A look
+
+<p>
+  <a href="https://github.com/quvyta/code"><img src="https://raw.githubusercontent.com/quvyta/code/main/docs/screenshots/project.png" alt="qcode: a project with harness tabs and the side panel" width="49%"></a>
+  <a href="https://github.com/quvyta/framework"><img src="https://raw.githubusercontent.com/quvyta/framework/main/docs/screenshots/dashboard.png" alt="The framework showcase: a dashboard example" width="49%"></a>
+</p>
+<p>
+  <a href="https://github.com/quvyta/focus"><img src="https://raw.githubusercontent.com/quvyta/focus/main/docs/screenshots/week.png" alt="qfocus: the week in bars by category" width="32%"></a>
+  <a href="https://github.com/quvyta/packages"><img src="https://raw.githubusercontent.com/quvyta/packages/main/docs/screenshots/installed.png" alt="qpac: installed packages" width="32%"></a>
+  <a href="https://github.com/quvyta/tools"><img src="https://raw.githubusercontent.com/quvyta/tools/main/docs/screenshots/list.png" alt="qtools: the list of settings" width="32%"></a>
+</p>
+<p>
+  <a href="https://github.com/quvyta/quvyta"><img src="https://raw.githubusercontent.com/quvyta/quvyta/main/docs/screenshots/family.png" alt="quvyta: the family launcher" width="49%"></a>
+</p>
+
 ### Install
 
 ```sh
